@@ -23,8 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Projeto
 
-O Instaclone é um projeto que permite aos usuários possam postar fotos e adicionar informações da mesma. Além de também poder visualizar fotos de outros usuários e curtir publicaçoes sem limitaçoes.
-O Instaclone possui protocolo web socket que permite atualizaçoes em tempo real dispensando requisições do usuário.
+O Instaclone é um projeto que permite que usuários possam postar fotos e curtir publicações.
 
 
 ## 🎨 Layout
