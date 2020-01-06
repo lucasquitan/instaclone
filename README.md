@@ -5,6 +5,7 @@ src="https://github.com/lucasquitan/instaclone/blob/master/frontend/src/assets/g
 
 <p align="center">
 <img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/lucasquitan/instaclone">
+<img alt="Linguagens utilizadas" src="https://img.shields.io/github/languages/count/lucasquitan/instaclone">
 <img alt="Tamanho do repositório"
 src="https://img.shields.io/github/repo-size/lucasquitan/instaclone">
 <img alt="Último commit"
